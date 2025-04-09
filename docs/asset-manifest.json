@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sacred-texts/static/css/main.7c9108f1.css",
-    "main.js": "/sacred-texts/static/js/main.6d90eb5a.js",
+    "main.css": "/sacred-texts/static/css/main.bc5e0bb0.css",
+    "main.js": "/sacred-texts/static/js/main.7c0f1471.js",
     "static/js/453.263cf4bc.chunk.js": "/sacred-texts/static/js/453.263cf4bc.chunk.js",
     "index.html": "/sacred-texts/index.html",
-    "main.7c9108f1.css.map": "/sacred-texts/static/css/main.7c9108f1.css.map",
-    "main.6d90eb5a.js.map": "/sacred-texts/static/js/main.6d90eb5a.js.map",
+    "main.bc5e0bb0.css.map": "/sacred-texts/static/css/main.bc5e0bb0.css.map",
+    "main.7c0f1471.js.map": "/sacred-texts/static/js/main.7c0f1471.js.map",
     "453.263cf4bc.chunk.js.map": "/sacred-texts/static/js/453.263cf4bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c9108f1.css",
-    "static/js/main.6d90eb5a.js"
+    "static/css/main.bc5e0bb0.css",
+    "static/js/main.7c0f1471.js"
   ]
 }
